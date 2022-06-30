@@ -1,0 +1,25 @@
+.Tudo{
+    margin-left: 40px;
+    width: 290px;
+    padding: 4px;
+    display: flex;
+    border-top: 1px solid rgb(212, 203, 203);
+ }
+
+ .subtitulo{
+     font-family: Helvetica;
+     margin-left: 25px;
+     color: #cc0000;
+ }
+ 
+ .res{
+    justify-content: center;
+ }
+
+.numero{
+     font-family: Arial, Helvetica, sans-serif;
+     margin-top: 45px;
+     color: darkgray;
+ }
+
+
